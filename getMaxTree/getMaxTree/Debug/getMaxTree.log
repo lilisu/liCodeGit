@@ -1,0 +1,11 @@
+﻿生成启动时间为 2015/11/4 21:12:11。
+     1>项目“d:\Users\user\documents\visual studio 2015\Projects\getMaxTree\getMaxTree\getMaxTree.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\getMaxTree.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt getMaxTree.cpp
+         getMaxTree.cpp
+     1>d:\users\user\documents\visual studio 2015\projects\getmaxtree\getmaxtree\getmaxtree.cpp(123): error C2065: “cout”: 未声明的标识符
+     1>已完成生成项目“d:\Users\user\documents\visual studio 2015\Projects\getMaxTree\getMaxTree\getMaxTree.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.82
