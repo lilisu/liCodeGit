@@ -1,0 +1,20 @@
+﻿  maxLength.cpp
+d:\program files (x86)\microsoft visual studio 14.0\vc\include\xhash(520): error C2100: 非法的间接寻址
+  e:\licodegit\maxlength\maxlength\maxlength.cpp(24): note: 参见对正在编译的函数 模板 实例化“void std::_Hash<stdext::_Hmap_traits<_Kty,_Ty,_Tr,_Alloc,false>>::insert<int>(_Iter,_Iter)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Tr=stdext::hash_compare<int,std::less<int>>,
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Iter=int
+          ]
+  e:\licodegit\maxlength\maxlength\maxlength.cpp(24): note: 参见对正在编译的函数 模板 实例化“void std::_Hash<stdext::_Hmap_traits<_Kty,_Ty,_Tr,_Alloc,false>>::insert<int>(_Iter,_Iter)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Tr=stdext::hash_compare<int,std::less<int>>,
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Iter=int
+          ]
