@@ -1,0 +1,4 @@
+﻿  KMP.cpp
+e:\licodegit\kmp\kmp\kmp.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+e:\licodegit\kmp\kmp\kmp.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+  KMP.vcxproj -> E:\liCodeGit\KMP\Debug\KMP.exe

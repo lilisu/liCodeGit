@@ -1,0 +1,4 @@
+﻿  isSubTree.cpp
+e:\licodegit\issubtree\issubtree\issubtree.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+e:\licodegit\issubtree\issubtree\issubtree.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+  isSubTree.vcxproj -> E:\liCodeGit\isSubTree\Debug\isSubTree.exe
